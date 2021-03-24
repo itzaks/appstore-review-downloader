@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-cd into folder
+cd appstore-review-downloader
 npm install
 ```
 
