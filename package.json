@@ -1,0 +1,16 @@
+{
+  "name": "appstore-review-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-store-scraper": "git+https://github.com/facundoolano/app-store-scraper.git",
+    "json-2-csv": "^3.10.2",
+    "minimist": "^1.2.5"
+  }
+}
